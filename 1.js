@@ -26,5 +26,5 @@ function verificarCadena(cadena) {
 }
 
 let cadena =  "Cristhian8";
-let resultado = verificarCadena (cadena)
-console.log( resultado);
+let resultado = verificarCadena (cadena);
+console.log( resultado)

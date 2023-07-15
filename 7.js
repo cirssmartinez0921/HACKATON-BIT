@@ -1,4 +1,4 @@
-//7.	En js Escribe una función que reciba una cadena de texto como parámetro y devuelva la palabra más larga encontrada en la cadena.
+//7.Escribe una función que reciba una cadena de texto como parámetro y devuelva la palabra más larga encontrada en la cadena.
 
 function palabraMasLarga(cadena) {
     let palabras = cadena.split(" ");
